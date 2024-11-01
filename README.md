@@ -1,3 +1,1 @@
-# js_project
-# js_project
-# js_project
+# I am a beginner in coding
